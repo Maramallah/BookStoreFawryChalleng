@@ -57,27 +57,7 @@ Main application class with console interface:
 - User interaction handling
 - Purchase processing
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Java 8 or higher
-- IDE (IntelliJ IDEA, Eclipse, or VS Code)
-
-### Installation
-
-1. Clone or download the project files
-2. Import into your Java IDE
-3. Ensure all classes are in the `org.example` package
-
-### Running the Application
-
-```bash
-# Compile the project
-javac org/example/*.java
-
-# Run the main application
-java org.example.OnlineStore
-```
 
 ## 📖 Usage
 
